@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_dictionary_override">
+    <sys_dictionary_override action="DELETE">
+        <attributes/>
+        <attributes_override>false</attributes_override>
+        <base_table>task</base_table>
+        <calculation/>
+        <calculation_override>false</calculation_override>
+        <default_value>hello</default_value>
+        <default_value_override>false</default_value_override>
+        <dependent>user_input</dependent>
+        <dependent_override>false</dependent_override>
+        <display_override>false</display_override>
+        <element>sys_created_by</element>
+        <mandatory>false</mandatory>
+        <mandatory_override>false</mandatory_override>
+        <name>x_58872_needit_needit</name>
+        <read_only>false</read_only>
+        <read_only_override>false</read_only_override>
+        <reference_qual/>
+        <reference_qual_override>false</reference_qual_override>
+        <sys_class_name>sys_dictionary_override</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-27 17:28:06</sys_created_on>
+        <sys_id>916c5ac507d69010b520f7fc7c1ed07c</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>sys_created_by</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_dictionary_override_916c5ac507d69010b520f7fc7c1ed07c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-27 17:45:09</sys_updated_on>
+    </sys_dictionary_override>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>5b53088bdbe173c442b321c4059619bc</instance_id>
+        <instance_name>dev86910</instance_name>
+        <name>sys_dictionary_override_916c5ac507d69010b520f7fc7c1ed07c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_dictionary_override"><sys_dictionary_override action="INSERT_OR_UPDATE"><attributes/><attributes_override>false</attributes_override><base_table>task</base_table><calculation/><calculation_override>false</calculation_override><default_value>hello</default_value><default_value_override>false</default_value_override><dependent>user_input</dependent><dependent_override>false</dependent_override><display_override>false</display_override><element>sys_created_by</element><mandatory>false</mandatory><mandatory_override>false</mandatory_override><name>x_58872_needit_needit</name><read_only>false</read_only><read_only_override>false</read_only_override><reference_qual/><reference_qual_override>false</reference_qual_override><sys_class_name>sys_dictionary_override</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-27 17:28:06</sys_created_on><sys_id>916c5ac507d69010b520f7fc7c1ed07c</sys_id><sys_mod_count>6</sys_mod_count><sys_name>sys_created_by</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_dictionary_override_916c5ac507d69010b520f7fc7c1ed07c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-27 17:45:09</sys_updated_on></sys_dictionary_override></record_update>]]></payload>
+        <payload_hash>-104854970</payload_hash>
+        <record_name>sys_created_by</record_name>
+        <reverted_from/>
+        <source>7119e63e077c10109b7ef48f7c1ed01f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-27 17:45:09</sys_created_on>
+        <sys_id>3240a68907d69010b520f7fc7c1ed0cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1739160d52e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-27 17:45:09</sys_updated_on>
+        <type>Dictionary Entry Override</type>
+        <update_guid>7a40a68972d690107ef9cd1ccea563cc</update_guid>
+        <update_guid_history>7a40a68972d690107ef9cd1ccea563cc:-104854970,817e924999d690100aa9b7c514c27038:2037988722,d51e5e0902d690105748263c69ba9f7f:1222003018,f27d960951d69010b7ed1c8c331b45b8:699043949,2e9c1ec518d69010a9570de99c6be611:369568633,516c5ac5cdd69010ef14328ec4fd0984:-1391596702,d96c5ac5c6d690104cb552ae44435e7f:708009302</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-27 17:48:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary_override">sys_dictionary_override</sys_db_object>
+        <sys_id>801cd89fa2ff4a0795528c3454bff221</sys_id>
+        <sys_metadata>916c5ac507d69010b520f7fc7c1ed07c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_created_by</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="x_58872_needit_needit">bd09227e077c10109b7ef48f7c1ed0eb</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_dictionary_override_916c5ac507d69010b520f7fc7c1ed07c</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_override_916c5ac507d69010b520f7fc7c1ed07c">3240a68907d69010b520f7fc7c1ed0cd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-27 17:48:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
